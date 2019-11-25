@@ -1,0 +1,10 @@
+[{
+        "model": "poll.question",
+        "pk": 1,
+        "fields": {
+            "title": "Diawara",
+            "status": "DAMAN",
+            "created_by": "1"
+        }
+    }
+]
